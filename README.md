@@ -1,8 +1,31 @@
-# Intelligent Traffic Management System (ITMS)
+# 🚦 Intelligent Traffic Management System (ITMS)
 
-AI-Powered Traffic Signal Control using YOLOv8 for Vehicle Detection
+**AI-Powered Traffic Signal Control using YOLOv8 for Vehicle Detection**
 
-## Overview
+---
+
+## 👨‍💻 Author
+
+**Sujal Patel**  
+MSc Big Data Analytics Student  
+*This project demonstrates the application of computer vision and machine learning to solve real-world urban traffic challenges.*
+
+---
+
+## 🎯 Problem Statement
+
+Traditional traffic signal systems operate on fixed timers, leading to several critical issues:
+
+- **Inefficient Traffic Flow**: Signals remain green for 60 seconds even when no vehicles are present, while other lanes with heavy traffic wait unnecessarily.
+- **Increased Congestion**: Static timing fails to adapt to real-time traffic conditions, causing bottlenecks during peak hours.
+- **Emergency Vehicle Delays**: Ambulances and emergency vehicles get stuck in traffic, leading to potentially life-threatening delays in critical situations.
+- **Wasted Time & Fuel**: Drivers spend unnecessary time at red lights, resulting in increased fuel consumption and carbon emissions.
+
+**The Challenge**: How can we make traffic signals "intelligent" enough to adapt to real-time traffic conditions and prioritize emergency vehicles?
+
+---
+
+## 💡 Solution Overview
 
 This system uses computer vision (YOLOv8) to detect vehicles in real-time across 4 traffic lanes and dynamically adjusts signal timing based on traffic density. It includes emergency vehicle (ambulance) detection for priority override.
 
