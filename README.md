@@ -4,13 +4,6 @@
 
 ---
 
-## 👨‍💻 Author
-
-**Sujal Patel**  
-MSc Big Data Analytics Student  
-*This project demonstrates the application of computer vision and machine learning to solve real-world urban traffic challenges.*
-
----
 
 ## 🎯 Problem Statement
 
@@ -31,12 +24,12 @@ This system uses computer vision (YOLOv8) to detect vehicles in real-time across
 
 ## Features
 
-- ✅ **Real-time Vehicle Detection** using YOLOv8
-- ✅ **Dynamic Signal Timing** based on traffic density
-- ✅ **Ambulance Detection** with emergency override
-- ✅ **Multi-lane Processing** (4 lanes simultaneously)
-- ✅ **Traffic Analytics** with database logging
-- ✅ **Interactive Dashboard** built with Streamlit
+- **Real-time Vehicle Detection** using YOLOv8
+- **Dynamic Signal Timing** based on traffic density
+- **Ambulance Detection** with emergency override
+- **Multi-lane Processing** (4 lanes simultaneously)
+- **Traffic Analytics** with database logging
+- **Interactive Dashboard** built with Streamlit
 
 ## Requirements
 
