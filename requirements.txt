@@ -1,0 +1,9 @@
+# Core Dependencies - Simplified for compatibility
+ultralytics
+streamlit
+opencv-python-headless
+pandas
+sqlalchemy
+plotly
+torch
+torchvision
