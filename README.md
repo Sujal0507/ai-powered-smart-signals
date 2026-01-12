@@ -1,3 +1,7 @@
+![Python](https://img.shields.io/badge/python-3.8+-blue.svg)
+![YOLOv8](https://img.shields.io/badge/YOLOv8-Ultralytics-green.svg)
+![Streamlit](https://img.shields.io/badge/Streamlit-1.28+-red.svg)
+![Status](https://img.shields.io/badge/status-active-success.svg)
 # Intelligent Traffic Management System (ITMS)
 
 AI-Powered Traffic Signal Control using YOLOv8 for Vehicle Detection
